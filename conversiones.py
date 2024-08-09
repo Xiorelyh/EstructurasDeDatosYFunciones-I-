@@ -19,7 +19,6 @@ else:
 
     #imprime los resultados obtenidos en la conversión
     print(f"Los 10.000 pesos equivalen a:")
-    #print(f"Los {sys.argv[4]} pesos equivalen a:")
     print(f"{sol_convertido:.1f} Soles")
     print(f"{peso_argentino_convertido:.1f} Pesos Argentinos")
     print(f"{dolar_americano_convertido:.1f} Dólares")
