@@ -1,3 +1,6 @@
+#Importacion de bibliotecas
+import sys
+
 #Solicitamos al usuario que ingrese nombre del archivo .txt a procesar
 
 archivo = input("Ingresa el nombre del archivo de texto incluyendo su extensión '.txt', ejemplo; texto.txt: ")
